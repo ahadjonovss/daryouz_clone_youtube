@@ -1,16 +1,10 @@
-# daryouz_clone
+Result:
 
-A new Flutter project.
+https://user-images.githubusercontent.com/98304052/202864756-97fa5559-b1c8-4feb-9d5f-508f892e9939.mp4
 
-## Getting Started
+Warning: This project is not responsive!
 
-This project is a starting point for a Flutter application.
+How to do this priject: 
+1-part: https://youtu.be/SkkiAZ9wPgo
+2-part: https://youtu.be/DpvmxgXWvL4
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
